@@ -1,0 +1,11 @@
+NAME="Vortex Linux"
+PRETTY_NAME="Vortex Linux"
+ID=vortex
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/Vortex-Linux"
+DOCUMENTATION_URL="https://vortexlinux.readthedocs.io/en/latest/"
+SUPPORT_URL="https://discord.gg/MsF24qUA5y"
+BUG_REPORT_URL="https://discord.gg/MsF24qUA5y"
+PRIVACY_POLICY_URL="https://vortexlinux.readthedocs.io/en/latest/privacy_policy.html"
+LOGO=vortexlinux-logo
